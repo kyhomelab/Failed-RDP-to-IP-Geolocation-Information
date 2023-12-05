@@ -5,16 +5,13 @@ This project is designed to analyze and log failed Remote Desktop Protocol (RDP)
 - [Microsoft Azure](https://azure.microsoft.com/en-us)
 - [Microsoft Sentinel](https://azure.microsoft.com/en-us/products/microsoft-sentinel)
 - [Log Analytics Workspace](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-overview)
-- [Microsoft Defender for Cloud]
-- 
-</br>
+- [Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
 
 ### Languages Used
 - Powershell: Extract RDP failed logon logs from Windows Event Viewer
-<br>
 
 ### Utlitlies Used
-- ipgeolocation.io: IP Address to Geolocation API
+- [ipgeolocation.io](https://ipgeolocation.io/): IP Address to Geolocation API
 
 ## Steps
 1. Under [Azure](https://azure.microsoft.com/en-us) create a Azure VM using Windows 10 (created a resource group named Honeypot)
