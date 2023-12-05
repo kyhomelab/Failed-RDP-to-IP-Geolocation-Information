@@ -79,3 +79,10 @@ FAILED_RDP_WITH_GEO_CL
 <br> <img src="https://i.imgur.com/ulaG0cQ.png" width="45%" height="45%"> <br>
 - You get the end result of this:
 <br> <img src="https://i.imgur.com/NKxgO6L.png" width="45%" height="45%"> <br>
+
+## Updates
+I let this run for 12 ish hours, seeing how many people are trying to get in. The Api only allows for up to 1k calls a day, and I hit the limit, but Sentinel keeps record and here is both the map and the dashboard.
+![Honey](https://i.imgur.com/K6DgbOP.png)
+![Honey](https://i.imgur.com/BZfa7zg.png)
+![Honey](https://i.imgur.com/qV1GASt.png)
+
