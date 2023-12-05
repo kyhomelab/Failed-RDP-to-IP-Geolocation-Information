@@ -39,7 +39,7 @@ This project is designed to analyze and log failed Remote Desktop Protocol (RDP)
 172.191.135.192 -t
 ```
 <br> <img src="https://i.imgur.com/K1AXuGP.png" width="35%" height="35%"> <br>
-10. Using PowerShell Ise im using a powershell script in order to pull the event viewer ID 4625 into a notepad <br>
+10. Using PowerShell Ise im using a [powershell script](https://github.com/kyhomelab/Failed-RDP-to-IP-Geolocation-Information/blob/main/Custom%20Security%20Log%20Exporter) in order to pull the event viewer ID 4625 into a notepad <br>
 - Utlizing the [IP API](https://ipgeolocation.io/ip-location-api.html) I add it to the 2nd line of the Powershell Script <br>
 <br> <img src="https://i.imgur.com/QR2YksZ.png" width="35%" height="35%"> <br>
 11. Back to Log Analytics > Tables > Create > New Custom Log (MMA-based)
